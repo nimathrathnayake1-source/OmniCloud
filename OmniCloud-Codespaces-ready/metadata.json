@@ -1,0 +1,8 @@
+{
+  "name": "OmniCloud",
+  "description": "Unified multi-cloud dashboard to upload, organize, and sync files across Google Drive, Dropbox, OneDrive, AWS S3, Box, and Nextcloud with end-to-end encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
